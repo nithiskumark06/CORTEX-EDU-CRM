@@ -57,9 +57,8 @@ This project implements real EdTech analytics scenarios, including:
 
 🛠 SQL Techniques Used
 
-- Common Table Expressions (CTEs)
 
-- Window functions (RANK, DENSE_RANK, PERCENT_RANK)
+- Window functions 
 
 - Cohort analysis
 
