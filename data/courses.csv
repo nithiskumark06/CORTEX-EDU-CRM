@@ -1,0 +1,31 @@
+course_id,course_title,category,difficulty,price,instructor_id,course_duration,published_date,start_at
+1,Foundations of Mathematics,Mathematics,Beginner,2999,1,30,2025-12-01,2026-01-05
+2,Core Physics Principles,Physics,Beginner,3499,2,35,2025-12-05,2026-01-10
+3,Chemistry Fundamentals,Chemistry,Beginner,2999,3,30,2025-12-08,2026-01-15
+4,Basics of Biology,Biology,Beginner,3299,4,35,2025-12-10,2026-01-18
+5,Introduction to Data Science,Data Science,Beginner,4999,5,40,2025-12-12,2026-01-20
+6,Machine Learning Essentials,Machine Learning,Intermediate,6999,6,50,2025-12-14,2026-01-22
+7,Statistics for Decision Making,Statistics,Intermediate,3999,7,40,2025-12-15,2026-01-23
+8,Python Programming Basics,Python Programming,Beginner,3499,8,45,2025-12-16,2026-01-24
+9,SQL and Database Fundamentals,SQL & Databases,Beginner,3799,9,40,2025-12-18,2026-01-25
+10,Java Programming Concepts,Java Programming,Beginner,3999,10,45,2025-12-20,2026-01-27
+11,C++ Programming Foundations,C++ Programming,Beginner,3999,11,45,2025-12-22,2026-01-28
+12,Modern Web Development,Web Development,Intermediate,5499,12,55,2025-12-24,2026-01-30
+13,DevOps Fundamentals,DevOps,Intermediate,5999,13,50,2025-12-26,2026-02-01
+14,Cloud Computing Basics,Cloud Computing,Beginner,4999,14,40,2025-12-28,2026-02-03
+15,Operating Systems Concepts,Operating Systems,Intermediate,4499,15,45,2025-12-01,2026-01-08
+16,Database Management Systems,DBMS,Intermediate,4799,16,45,2025-12-03,2026-01-10
+17,Computer Networks Fundamentals,Computer Networks,Intermediate,4599,17,45,2025-12-05,2026-01-12
+18,Aptitude and Logical Reasoning,Aptitude & Reasoning,Beginner,2499,18,30,2025-12-07,2026-01-14
+19,Professional Soft Skills,Soft Skills,Beginner,1999,19,25,2025-12-09,2026-01-16
+20,System Design Basics,System Design,Advanced,7999,20,60,2025-12-11,2026-01-18
+21,Economics Fundamentals,Economics,Beginner,2999,21,30,2025-12-13,2026-01-20
+22,Finance Basics,Finance Basics,Beginner,3299,22,35,2025-12-15,2026-01-22
+23,Digital Marketing Essentials,Digital Marketing,Intermediate,4499,23,40,2025-12-17,2026-01-24
+24,Content Writing Mastery,Content Writing,Beginner,2499,24,30,2025-12-19,2026-01-26
+25,Ethical Hacking Foundations,Ethical Hacking,Advanced,6999,25,55,2025-12-21,2026-01-28
+26,Cyber Security Essentials,Cyber Security,Intermediate,6499,26,50,2025-12-23,2026-01-30
+27,Blockchain Basics,Blockchain Basics,Beginner,4999,27,40,2025-12-25,2026-02-01
+28,UI UX Design Principles,UI/UX Design,Beginner,3999,28,35,2025-12-27,2026-02-03
+29,Game Development Introduction,Game Development,Intermediate,5499,29,45,2025-12-29,2026-02-05
+30,Artificial Intelligence Overview,Artificial Intelligence,Advanced,7999,30,60,2025-12-31,2026-02-07
