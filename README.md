@@ -51,7 +51,7 @@ This project implements real EdTech analytics scenarios, including:
 
 - Rank instructors based on course performance: revenue generated and average student ratings.
 
--Analyze the impact of discounts and subscription plans on enrollments.
+ -Analyze the impact of discounts and subscription plans on enrollments.
 
 - Which courses have high ratings but low engagement?
 
